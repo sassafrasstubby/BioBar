@@ -1,0 +1,2 @@
+debian/bin/BioBard usr/bin
+src/BioBard usr/lib/BioBar

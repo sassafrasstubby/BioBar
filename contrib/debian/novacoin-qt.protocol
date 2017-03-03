@@ -1,0 +1,11 @@
+[Protocol]
+exec=BioBar-qt '%u'
+protocol=BioBar
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

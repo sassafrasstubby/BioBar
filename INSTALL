@@ -1,0 +1,9 @@
+Building BioBar
+
+See doc/readme-qt.rst for instructions on building BioBar QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BioBar.
+
+See doc/build-*.txt for instructions on building BioBard,
+the intended-for-services, no-graphical-interface, reference
+implementation of BioBar.
